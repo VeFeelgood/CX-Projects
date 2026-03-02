@@ -22,7 +22,7 @@ Strategische Segmentierung der Kundenbasis eines Online-Shops zur Entwicklung pe
 
 **Tech-Stack**: Python (RFM-Modelling, statistische Hypothesentests).
 
-3. **GoFast Projekt**
+#3. **GoFast Projekt**
    User Experience Analyse für einen E-Scooter-Sharing-Dienst
 Untersuchung des Nutzungsverhaltens zur Optimierung des Service-Erlebnisses und zur Validierung des Abonnement-Modells.
 
